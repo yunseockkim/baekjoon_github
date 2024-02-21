@@ -1,8 +1,8 @@
 package level01;
 
-import java.util.*;
+import java.util.Scanner;
 
-public class ex02 {
+public class ex06 {
 
 	public static void main(String[] args) {
 		int a, b;
@@ -11,6 +11,10 @@ public class ex02 {
 		a = sc.nextInt();
 		b = sc.nextInt();
 		System.out.println(a+b);
+		System.out.println(a-b);
+		System.out.println(a*b);
+		System.out.println(a/b);
+		System.out.println(a%b);
 	}
 
 }

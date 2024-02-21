@@ -2,7 +2,7 @@ package level01;
 
 import java.util.*;
 
-public class ex02 {
+public class ex03 {
 
 	public static void main(String[] args) {
 		int a, b;
@@ -10,7 +10,7 @@ public class ex02 {
 		System.out.println("입력 : ");
 		a = sc.nextInt();
 		b = sc.nextInt();
-		System.out.println(a+b);
+		System.out.println(a-b);
 	}
 
 }

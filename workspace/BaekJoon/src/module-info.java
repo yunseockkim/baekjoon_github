@@ -5,5 +5,5 @@
  * @author fketm
  *
  */
-module Day01 {
+module BaekJoon {
 }

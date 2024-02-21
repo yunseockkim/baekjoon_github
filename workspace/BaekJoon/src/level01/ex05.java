@@ -1,16 +1,15 @@
 package level01;
 
-import java.util.*;
+import java.util.Scanner;
 
-public class ex02 {
+public class ex05 {
 
 	public static void main(String[] args) {
-		int a, b;
+		double a, b;
 		Scanner sc = new Scanner(System.in);
 		System.out.println("입력 : ");
-		a = sc.nextInt();
-		b = sc.nextInt();
-		System.out.println(a+b);
+		a = sc.nextDouble();
+		b = sc.nextDouble();
+		System.out.println(a/b);
 	}
-
 }
